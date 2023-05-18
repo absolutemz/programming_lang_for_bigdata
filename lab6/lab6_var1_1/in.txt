@@ -1,0 +1,1 @@
+This is a sample text. The text contains several words. Words can be repeated in the text. Repeated words should be considered as one. Case sensitivity should not matter.
